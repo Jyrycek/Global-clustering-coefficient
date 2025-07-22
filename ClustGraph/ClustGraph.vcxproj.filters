@@ -28,9 +28,11 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="D:\jirka\Downloads\Graph.txt" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="README.md" />
+    <Text Include="Graph.txt">
+      <Filter>Soubory zdrojů</Filter>
+    </Text>
   </ItemGroup>
 </Project>

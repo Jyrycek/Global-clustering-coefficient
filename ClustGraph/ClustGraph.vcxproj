@@ -130,10 +130,10 @@
     <ClInclude Include="Graph.h" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="D:\jirka\Downloads\Graph.txt" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="README.md" />
+    <Text Include="Graph.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
